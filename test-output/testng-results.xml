@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14814" started-at="2022-07-24T06:56:27Z" finished-at="2022-07-24T06:56:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14814" started-at="2022-07-24T06:56:27Z" finished-at="2022-07-24T06:56:42Z">
+      <class name="com.test1.IntegrationTests">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.test1.IntegrationTests@635eaaf1]" name="openBrowser" is-config="true" duration-ms="10958" started-at="2022-07-24T06:56:27Z" finished-at="2022-07-24T06:56:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="m2()[pri:0, instance:com.test1.IntegrationTests@635eaaf1]" name="m2" duration-ms="3819" started-at="2022-07-24T06:56:38Z" finished-at="2022-07-24T06:56:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+      </class> <!-- com.test1.IntegrationTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
